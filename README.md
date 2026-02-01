@@ -1,4 +1,5 @@
-| [![Alchemist logo](/site/static/images/logo.svg)](https://alchemistsimulator.github.io/)  | [![Alchemist logo](/site/static/images/logo-text-path.svg)](https://alchemistsimulator.github.io/)  |
+| [![Alchemist logo](/site/static/images/logo.svg)](https://alchemistsimulator.github.io/) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2FAlchemist.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2FAlchemist?ref=badge_shield)
+ | [![Alchemist logo](/site/static/images/logo-text-path.svg)](https://alchemistsimulator.github.io/)  |
 |---|---|
 
 
@@ -68,3 +69,7 @@ A BibTeX entry for LaTeX users is:
 	<img src="https://contributors-img.web.app/image?repo=AlchemistSimulator/Alchemist" />
 </a>
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2FAlchemist.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2FAlchemist?ref=badge_large)
